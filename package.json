@@ -1,0 +1,23 @@
+{
+  "name": "console-beauty",
+  "version": "1.0.0",
+  "description": "colorful console for brower",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokialone/console-beauty.git"
+  },
+  "author": "lokialone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokialone/console-beauty/issues"
+  },
+  "homepage": "https://github.com/lokialone/console-beauty#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
