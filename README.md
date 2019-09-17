@@ -1,2 +1,0 @@
-# console-beauty
-colorful console
